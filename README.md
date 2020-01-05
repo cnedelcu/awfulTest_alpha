@@ -8,8 +8,11 @@ Resources:
  ·the holy grail: GOOGLE
 
 HTML5:
+
  ·w3schools.com/css/exercise.asp
+ 
  ·w3schools.com/css/css_quiz.asp
+ 
  ·freecodecamp.org/learn/responsive-web-design/basic-html-and-html5
  
  flexbox:
