@@ -17,5 +17,8 @@ HTML5 & CSS:
  
  ·www.freecodecamp.org/learn/responsive-web-design/basic-css/
  
+ ·https://thoughtbot.com/blog/transitions-and-transforms
+ 
  flexbox:
+ 
  ·www.darekkay.com/dev/flexbox-cheatsheet.html
