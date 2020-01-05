@@ -5,15 +5,17 @@ Salut, I'm a full stack web developer from Bucharest, Romania.
 
 Resources:
 
- ·the holy grail: GOOGLE
+ ·the holy grail: www.GOOGLE.com
 
-HTML5:
+HTML5 & CSS:
 
- ·w3schools.com/css/exercise.asp
+ ·www.w3schools.com/css/exercise.asp
  
- ·w3schools.com/css/css_quiz.asp
+ ·www.w3schools.com/css/css_quiz.asp
  
- ·freecodecamp.org/learn/responsive-web-design/basic-html-and-html5
+ ·www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5
+ 
+ ·www.freecodecamp.org/learn/responsive-web-design/basic-css/
  
  flexbox:
- ·darekkay.com/dev/flexbox-cheatsheet.html
+ ·www.darekkay.com/dev/flexbox-cheatsheet.html
