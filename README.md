@@ -3,9 +3,14 @@ Salut, I'm a full stack web developer from Bucharest, Romania.
 
 (updating...)
 
-Resources:
+RESOURCES & TOOLS:
 
- ·the holy grail: www.GOOGLE.com
+ the holy grail: www.GOOGLE.com!
+ 
+ Editor: 
+ 
+ ·https://code.visualstudio.com/docs
+ ·https://www.jetbrains.com/idea/documentation/
 
  HTML5 & CSS:
 
@@ -25,14 +30,31 @@ Resources:
  
  ·www.darekkay.com/dev/flexbox-cheatsheet.html
  
+ CSS extension:
+ 
+ ·https://sass-lang.com/
+ 
  (bonus) browser mockup for site presentation:
+ 
  ·https://line25.com/articles/free-web-browser-mockups-psd-ai
  
  My Favorite CSS Frameworks:
  
  ·https://getbootstrap.com
+ 
  ·https://bulma.io
+ 
  ·https://tailwindcss.com
+ 
+ ·https://getuikit.com/
+ 
+ CSS extension:
+ 
+ ·https://sass-lang.com/
+ 
+ MERN Tutorial:
+ 
+ ·www.youtube.com/watch?time_continue=1&v=7CqJlxBYj-M&feature=emb_title
  
  Spring Boot Tuts:
  
@@ -52,5 +74,8 @@ Resources:
  
  Productivity playlists:
  
- ·www.entrepreneur.com/article/325492?fbclid=IwAR0sTjT-3DLq_Zyz4b7QJ-zp-TD93x8bxlQ_ITfy3SdR2kPCrypEJC2aUW8
+ ·www.entrepreneur.com/article/325492
  
+ Freelance:
+ 
+ www.toptal.com
