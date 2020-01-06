@@ -77,7 +77,7 @@ RESOURCES & TOOLS:
  Productivity playlists:
  
  ·www.entrepreneur.com/article/325492
- ·Jazz Concert: https://www.youtube.com/watch?v=MizPu-dTPQU&list=WL&index=14&t=0s
+ ·Jazz Concert: https://www.youtube.com/watch?v=MizPu-dTPQU
  
  Freelance:
  
