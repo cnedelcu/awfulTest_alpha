@@ -18,6 +18,7 @@ RESOURCES & TOOLS:
  Terminal: 
  
  ·https://git-scm.com/downloads
+ how to install: www.atlassian.com/git/tutorials/install-git#windows
 
  HTML5 & CSS:
 
