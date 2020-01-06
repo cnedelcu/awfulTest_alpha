@@ -93,6 +93,10 @@ RESOURCES & TOOLS:
  
  ·Jazz Concert: https://www.youtube.com/watch?v=MizPu-dTPQU
  
+ Productivity:
+ 
+ www.goalcontract.com/
+ 
  Freelance:
  
  ·www.toptal.com
@@ -116,13 +120,13 @@ email tools:
 
 ·https://mailmeteor.com (paied)
 
-ranked programming:
+Ranked programming:
 
 ·codersrank.io 
 
 ·four competitive programming contest: websiteswww.youtube.com/watch?v=J267bz_G7xE 
 
-other: 
+Other: 
 
 ·product hunt: https://www.producthunt.com/
 
