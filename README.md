@@ -7,11 +7,17 @@ RESOURCES & TOOLS:
 
  the holy grail: www.GOOGLE.com!
  
+ https://stackoverflow.com/
+ 
  Editor: 
  
  ·https://code.visualstudio.com/docs  Visual studio pulgin: https://visualstudio.github.com/
  
  ·https://www.jetbrains.com/idea/documentation/
+ 
+ Terminal: 
+ 
+ ·https://git-scm.com/downloads
 
  HTML5 & CSS:
 
@@ -38,6 +44,14 @@ RESOURCES & TOOLS:
  (bonus) browser mockup for site presentation:
  
  ·https://line25.com/articles/free-web-browser-mockups-psd-ai
+ 
+ Color palettes: 
+ 
+ ·https://colorsinspo.com
+ 
+ Extract data from any website in seconds:
+ 
+ https://simplescraper.io
  
  My Favorite CSS Frameworks:
  
@@ -82,6 +96,7 @@ RESOURCES & TOOLS:
  Freelance:
  
  ·www.toptal.com
+ ·graphic design: www.behance.net
  
  Predicting the Future of the Web Development (2020 and 2025):
  
@@ -97,6 +112,18 @@ RESOURCES & TOOLS:
 
 ·https://ocw.mit.edu/courses/#electrical-engineering-and-computer-science
 
+email tools:
 
+·https://mailmeteor.com (paied)
+
+ranked programming:
+
+·codersrank.io 
+
+·four competitive programming contest: websiteswww.youtube.com/watch?v=J267bz_G7xE 
+
+other: 
+
+·product hunt: https://www.producthunt.com/
 
 
