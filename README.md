@@ -92,7 +92,9 @@ RESOURCES & TOOLS:
  ·https://www.youtube.com/watch?v=QyJZzq0v7Z4
  
  Educational sites:
+ 
 ·www.codecademy.com/
+
 ·https://ocw.mit.edu/courses/#electrical-engineering-and-computer-science
 
 
