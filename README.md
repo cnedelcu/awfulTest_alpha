@@ -9,7 +9,8 @@ RESOURCES & TOOLS:
  
  Editor: 
  
- ·https://code.visualstudio.com/docs
+ ·https://code.visualstudio.com/docs  Visual studio pulgin: https://visualstudio.github.com/
+ 
  ·https://www.jetbrains.com/idea/documentation/
 
  HTML5 & CSS:
@@ -42,9 +43,7 @@ RESOURCES & TOOLS:
  
  ·https://getbootstrap.com
  
- ·https://bulma.io
- 
- ·also bulma builder: https://bulma.dev
+ ·https://bulma.io - also bulma builder: https://bulma.dev
  
  ·https://tailwindcss.com
  
@@ -56,7 +55,7 @@ RESOURCES & TOOLS:
  
  MERN Tutorial:
  
- ·www.youtube.com/watch?time_continue=1&v=7CqJlxBYj-M&feature=emb_title
+ ·www.youtube.com/watch?time_continue=1&v=7CqJlxBYj-M
  
  Spring Boot Tuts:
  
@@ -81,8 +80,12 @@ RESOURCES & TOOLS:
  
  Freelance:
  
- www.toptal.com
+ ·www.toptal.com
  
  Predicting the Future of the Web Development (2020 and 2025):
  
- https://www.youtube.com/watch?v=24tQRwIRP
+ ·https://www.youtube.com/watch?v=24tQRwIRP
+ 
+ Why Isn't Functional Programming the Norm?
+ 
+ ·https://www.youtube.com/watch?v=QyJZzq0v7Z4
