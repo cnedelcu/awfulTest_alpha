@@ -76,6 +76,7 @@ RESOURCES & TOOLS:
  Productivity playlists:
  
  ·www.entrepreneur.com/article/325492
+ 
  ·Jazz Concert: https://www.youtube.com/watch?v=MizPu-dTPQU
  
  Freelance:
@@ -89,3 +90,9 @@ RESOURCES & TOOLS:
  Why Isn't Functional Programming the Norm?
  
  ·https://www.youtube.com/watch?v=QyJZzq0v7Z4
+ 
+ Educational sites:
+·www.codecademy.com/
+·https://ocw.mit.edu/courses/#electrical-engineering-and-computer-science
+
+
