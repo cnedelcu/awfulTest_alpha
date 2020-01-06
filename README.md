@@ -77,7 +77,12 @@ RESOURCES & TOOLS:
  Productivity playlists:
  
  ·www.entrepreneur.com/article/325492
+ ·Jazz Concert: https://www.youtube.com/watch?v=MizPu-dTPQU&list=WL&index=14&t=0s
  
  Freelance:
  
  www.toptal.com
+ 
+ Predicting the Future of the Web Development (2020 and 2025):
+ 
+ https://www.youtube.com/watch?v=24tQRwIRP
