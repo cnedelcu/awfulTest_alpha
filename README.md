@@ -7,7 +7,12 @@ RESOURCES & TOOLS:
 
  the holy grail: www.GOOGLE.com!
  
- https://stackoverflow.com/
+ ·https://stackoverflow.com/
+ ·also: https://insights.stackoverflow.com/survey/2019
+ 
+ Web Development In 2020 - A Practical Guide:
+ 
+ ·https://www.youtube.com/watch?v=0pThnRneDjw
  
  Editor: 
  
@@ -123,7 +128,7 @@ email tools:
 
 Ranked programming:
 
-·codersrank.io 
+·https://codersrank.io 
 
 ·four competitive programming contest: websiteswww.youtube.com/watch?v=J267bz_G7xE 
 
