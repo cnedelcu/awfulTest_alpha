@@ -146,5 +146,9 @@ https://designmodo.com/slides/
 
 https://www.wix.com/mystunningwebsites/illustration
 
+https://www.creativebloq.com/features/best-css-frameworks
+https://medium.com/@DanSiepen/top-15-sites-built-with-node-js-a6412638eb28
+https://www.dansiepen.io/
+
 def
 stateful or stateless
