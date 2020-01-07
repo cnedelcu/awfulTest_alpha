@@ -63,15 +63,21 @@ RESOURCES & TOOLS:
  
  ·https://getbootstrap.com
  
- ·https://bulma.io - also bulma builder: https://bulma.dev
+ ·https://bulma.io - also bulma builder: https://bulma.dev also: https://bulmathemes.com/
  
  ·https://tailwindcss.com
  
  ·https://getuikit.com/
  
+ https://picturepan2.github.io/spectre/
+ 
  CSS extension:
  
  ·https://sass-lang.com/
+ 
+ Javascript group: 
+ 
+ https://www.facebook.com/groups/1517091958315927/learning_content/?filter=485512138613577&post=3509590659066037
  
  MERN Tutorial:
  
@@ -135,6 +141,10 @@ Ranked programming:
 Other: 
 
 ·product hunt: https://www.producthunt.com/
+
+https://designmodo.com/slides/
+
+https://www.wix.com/mystunningwebsites/illustration
 
 def
 stateful or stateless
