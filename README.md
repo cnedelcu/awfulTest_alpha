@@ -150,5 +150,14 @@ https://www.creativebloq.com/features/best-css-frameworks
 https://medium.com/@DanSiepen/top-15-sites-built-with-node-js-a6412638eb28
 https://www.dansiepen.io/
 
+
+https://www.reddit.com/r/learnprogramming/comments/dzzflm/if_you_are_learning_programmingnewbie_these_may/?sort=top
+
+https://semaphoreci.com/cicd
+
+https://www.infoworld.com/article/3271126/what-is-cicd-continuous-integration-and-continuous-delivery-explained.html
+
+https://morioh.com/p/af03d3c65fc6
+
 def
 stateful or stateless
