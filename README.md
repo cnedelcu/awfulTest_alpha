@@ -159,5 +159,7 @@ https://www.infoworld.com/article/3271126/what-is-cicd-continuous-integration-an
 
 https://morioh.com/p/af03d3c65fc6
 
+https://handlebarsjs.com/guide/#what-is-handlebars
+
 def
 stateful or stateless
