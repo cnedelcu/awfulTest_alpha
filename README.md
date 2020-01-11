@@ -59,7 +59,7 @@ RESOURCES & TOOLS:
  
  https://simplescraper.io
  
- My Favorite CSS Frameworks:
+ CSS Frameworks:
  
  ·https://getbootstrap.com
  
@@ -70,6 +70,10 @@ RESOURCES & TOOLS:
  ·https://getuikit.com/
  
  https://picturepan2.github.io/spectre/
+ 
+ https://picnicss.com/
+ 
+ https://www.getpapercss.com/
  
  CSS extension:
  
@@ -160,6 +164,8 @@ https://www.infoworld.com/article/3271126/what-is-cicd-continuous-integration-an
 https://morioh.com/p/af03d3c65fc6
 
 https://handlebarsjs.com/guide/#what-is-handlebars
+
+https://www.canva.com/learn/typography-terms/
 
 def
 stateful or stateless
