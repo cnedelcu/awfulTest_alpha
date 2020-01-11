@@ -1,4 +1,4 @@
-## HTML5 & CSS:
+## HTML5 & CSS3:
 
  [w3schools css exercise]( www.w3schools.com/css/exercise.asp) | [w3schools css_quiz]( www.w3schools.com/css/css_quiz.asp)
 
