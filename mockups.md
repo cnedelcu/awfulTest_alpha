@@ -5,3 +5,7 @@
 ### Color palettes: 
 
  [colorsinspo]( https://colorsinspo.com)
+ 
+ ###  Site scraper: 
+
+[simplescraper](https://simplescraper.io)
