@@ -134,7 +134,7 @@ RESOURCES & TOOLS:
 
 email tools:
 
-·https://mailmeteor.com (paied)
+·https://mailmeteor.com 
 
 Ranked programming:
 
