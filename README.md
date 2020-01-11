@@ -169,3 +169,5 @@ https://www.canva.com/learn/typography-terms/
 
 def
 stateful or stateless
+
+https://dev.to/alvaromontoro/drawing-homer-simpson-using-circles-in-css-4gc1
