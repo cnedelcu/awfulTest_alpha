@@ -1,79 +1,15 @@
-# test-1234
+# test1234
 Salut, I'm a full stack web developer from Bucharest, Romania.
 
-(updating...)
 
-RESOURCES & TOOLS:
-
- the holy grail: www.GOOGLE.com!
- 
- ·https://stackoverflow.com/
- ·also: https://insights.stackoverflow.com/survey/2019
- 
- Web Development In 2020 - A Practical Guide:
- 
- ·https://www.youtube.com/watch?v=0pThnRneDjw
- 
- Editor: 
- 
- ·https://code.visualstudio.com/docs  Visual studio pulgin: https://visualstudio.github.com/
- 
- ·https://www.jetbrains.com/idea/documentation/
- 
- Terminal: 
- 
- ·https://git-scm.com/downloads
- how to install: www.atlassian.com/git/tutorials/install-git#windows
-
- HTML5 & CSS:
-
- ·www.w3schools.com/css/exercise.asp
- 
- ·www.w3schools.com/css/css_quiz.asp
- 
- ·www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5
- 
- ·www.freecodecamp.org/learn/responsive-web-design/basic-css/
- 
- ·https://thoughtbot.com/blog/transitions-and-transforms
- 
- ·https://adamwathan.me/css-utility-classes-and-separation-of-concerns/
- 
- Flexbox:
- 
- ·www.darekkay.com/dev/flexbox-cheatsheet.html
- 
- CSS extension:
- 
- ·https://sass-lang.com/
- 
- (bonus) browser mockup for site presentation:
- 
- ·https://line25.com/articles/free-web-browser-mockups-psd-ai
- 
- Color palettes: 
- 
- ·https://colorsinspo.com
- 
- Extract data from any website in seconds:
- 
- https://simplescraper.io
- 
- CSS Frameworks:
- 
- ·https://getbootstrap.com
- 
- ·https://bulma.io - also bulma builder: https://bulma.dev also: https://bulmathemes.com/
- 
- ·https://tailwindcss.com
  
  ·https://getuikit.com/
  
  https://picturepan2.github.io/spectre/
  
- https://picnicss.com/
+
  
- https://www.getpapercss.com/
+
  
  CSS extension:
  
