@@ -2,16 +2,7 @@
 Salut, I'm a full stack web developer from Bucharest, Romania.
 
 
- 
- ·https://getuikit.com/
- 
- https://picturepan2.github.io/spectre/
- 
-
- 
-
- 
- CSS extension:
+  CSS extension:
  
  ·https://sass-lang.com/
  
