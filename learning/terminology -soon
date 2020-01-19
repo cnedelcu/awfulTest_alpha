@@ -2,7 +2,9 @@ parameter and arguments
 
 stateful or stateless
 
-Promises (reject, resolve)
+this
+
+Promises (reject, resolve) then
 or callbacks
 
 
