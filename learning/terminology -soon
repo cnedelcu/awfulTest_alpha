@@ -2,6 +2,7 @@ parameter and arguments
 
 stateful or stateless
 
-Promises or callbacks
+Promises (reject, resolve)
+or callbacks
 
 
