@@ -4,6 +4,12 @@ pure and impure functions
 
 static typing vs dynamic typing
 
+encapsulation
+
+polymorphism
+
+concurrency
+structural
 
 paradigm
 imperative:
@@ -24,10 +30,12 @@ declarative
 Prototype-based programming
 
 Expressions
+Anonymous functions
 
 Methods
 
 duck typing 
+first-class functions
 
 strongly typed
 weakly typed
