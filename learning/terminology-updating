@@ -1,5 +1,9 @@
 parameters and arguments
 
+pure and impure functions
+
+tatic typing vs dynamic typing
+
 stateful or stateless
 
 this
@@ -7,4 +11,8 @@ this
 Promises (reject, resolve) then
 or callbacks
 
+Components
 
+Props
+
+Hooks
