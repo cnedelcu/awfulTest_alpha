@@ -2,7 +2,29 @@ parameters and arguments
 
 pure and impure functions
 
-tatic typing vs dynamic typing
+static typing vs dynamic typing
+
+
+paradigm
+imperative:
+procedural 
+object-oriented 
+
+declarative:
+functional
+logic
+mathematical
+
+modularity
+
+Expressions
+
+Methods
+
+duck typing 
+
+strongly typed
+weakly typed
 
 stateful or stateless
 
