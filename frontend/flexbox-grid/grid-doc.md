@@ -27,3 +27,34 @@ example:
 
 
 -----
+
+
+.header {
+    grid-column-start: 1; <--! first column line -->
+    grid-column-end: 3;   <--! third column line -->
+}
+
+
+and same thing:
+
+
+.header {
+    grid-column: 1 / 3;
+}
+
+
+------
+
+
+.footer {
+    grid-column: 1 / span 2; <--! star at frst collumn line and span across 2 collumns -->
+}
+
+
+--------
+
+
+.footer {
+    grid-column: 1 / -1; <--! star at frst collumn line and targets the last collumn line -->
+}
+
