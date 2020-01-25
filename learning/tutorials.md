@@ -6,3 +6,5 @@
 [MIT Computer sceince](https://ocw.mit.edu/courses/#electrical-engineering-and-computer-science)
 
 scrimba
+
+egghead
