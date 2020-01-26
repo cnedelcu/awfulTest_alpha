@@ -9,7 +9,6 @@ example from scrimba:
     grid-gap: 3px;
 }
 
-
 ```
          ![](https://i.imgur.com/ZGNhB2y.png)
 
