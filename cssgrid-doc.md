@@ -1,4 +1,4 @@
-example:
+example from scrimba:
 
 .container {
     display: grid;
@@ -11,7 +11,7 @@ example:
     
 .container {
     display: grid;
-    grid-template-columns: repeat(3, 1fr); <--! same thing, first parameter amount of collumns, second the value 9height, wight -->
+    grid-template-columns: repeat(3, 1fr); <--! same thing, first parameter is the no. of collumns, second the value height, weight -->
     grid-template-rows: repeat(2, 50px);
     grid-gap: 3px;
 }
@@ -26,11 +26,8 @@ example:
 }
 
 
------
-
 
 ------
-
 
 .container {
     display: grid;
@@ -41,12 +38,11 @@ example:
 
 .header {
     grid-column-start: 1;
-    grid-column-end: 3;     <--! 2 collumns and 3 collumn lines, one separates the first and last -->
+    grid-column-end: 3;     <--! 2 columns and 3 column lines, one separates the first and last -->
 }
 
 
 --------
-
 
 .header {
     grid-column-start: 1; <--! first column line -->
@@ -63,12 +59,11 @@ and same thing:
 
 
 
-
 ------
 
 
 .footer {
-    grid-column: 1 / span 2; <--! star at first collumn line and span across 2 collumns -->
+    grid-column: 1 / span 2; <--! star at first column line and span across 2 columns -->
 }
 
 
@@ -76,7 +71,7 @@ and same thing:
 
 
 .footer {
-    grid-column: 1 / -1; <--! star at frst collumn line and targets the last collumn line -->
+    grid-column: 1 / -1; <--! star at frst column line and targets the last column line -->
 }
 
 
