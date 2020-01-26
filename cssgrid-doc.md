@@ -10,8 +10,9 @@ example from scrimba:
 }
 
 ```
-     ![](i.imgur.com/ZGNhB2y.png)
-
+     ![](https://i.imgur.com/ZGNhB2y.png)
+     
+     
     same thing as:
 
 `.container {`
