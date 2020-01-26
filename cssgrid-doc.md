@@ -29,6 +29,25 @@ example:
 -----
 
 
+------
+
+
+.container {
+    display: grid;
+    grid-gap: 3px;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: 40px 200px 40px;
+}
+
+.header {
+    grid-column-start: 1;
+    grid-column-end: 3;     <--! 2 collumns and 3 collumn lines, one separates the first and last -->
+}
+
+
+--------
+
+
 .header {
     grid-column-start: 1; <--! first column line -->
     grid-column-end: 3;   <--! third column line -->
@@ -43,11 +62,13 @@ and same thing:
 }
 
 
+
+
 ------
 
 
 .footer {
-    grid-column: 1 / span 2; <--! star at frst collumn line and span across 2 collumns -->
+    grid-column: 1 / span 2; <--! star at first collumn line and span across 2 collumns -->
 }
 
 
@@ -57,4 +78,5 @@ and same thing:
 .footer {
     grid-column: 1 / -1; <--! star at frst collumn line and targets the last collumn line -->
 }
+
 
