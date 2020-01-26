@@ -1,18 +1,4 @@
-example from scrimba:
 
-```
-
-.container {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr; <--! 3 columns, fr for responsivness -->
-    grid-template-rows: 50px 50px;
-    grid-gap: 3px;
-}
-
-```
-     ![](https://i.imgur.com/ZGNhB2y.png)
-     
-     
     same thing as:
 
 `.container {`
