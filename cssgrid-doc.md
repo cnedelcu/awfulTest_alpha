@@ -10,7 +10,7 @@ example from scrimba:
 }
 
 ```
-     ![](https://i.imgur.com/ZGNhB2y.png)
+     ![](i.imgur.com/ZGNhB2y.png)
 
     same thing as:
 
