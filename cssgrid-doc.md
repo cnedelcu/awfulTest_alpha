@@ -2,7 +2,7 @@ example:
 
 .container {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr; <--! 3 columns, fr for responsivness -->
     grid-template-rows: 50px 50px;
     grid-gap: 3px;
 }
@@ -11,7 +11,7 @@ example:
     
 .container {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(3, 1fr); <--! same thing, first parameter amount of collumns, second the value 9height, wight -->
     grid-template-rows: repeat(2, 50px);
     grid-gap: 3px;
 }
@@ -21,7 +21,7 @@ example:
     
 .container {
     display: grid;
-    grid-template: repeat(2, 50px) / repeat(3, 1fr);
+    grid-template: repeat(2, 50px) / repeat(3, 1fr);   <--! shorthand method; starts with rows, ends with collumns -->
     grid-gap: 3px;
 }
 
