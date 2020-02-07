@@ -13,3 +13,5 @@ WIKI:
 * bootstrap
 * javascript ES6
 * functional javascript
+* react
+* 
