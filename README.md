@@ -1,18 +1,8 @@
 ## the Holy Grail:
 
-[Google search]([www.GOOGLE.com)! 
+[Google search]([www.GOOGLE.com)!|github | [stackoverflow](https://stackoverflow.com) | [codepen](https://codepen.io/) | [Medium](https://medium.com/)
 
-github
-
-[stackoverflow](https://stackoverflow.com) 
-
-[codepen](https://codepen.io/)
-
-[Medium](https://medium.com/)
-
-
-
-WIKI:
+## WIKI:
 
 * [Learning sites](https://github.com/cnedelcu/testing1234/wiki/learning-sites)
 * excel
