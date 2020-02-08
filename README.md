@@ -1,6 +1,6 @@
 ## the Holy Grail:
 
-[Google search]([www.GOOGLE.com)! | github | [stackoverflow](https://stackoverflow.com) | [codepen](https://codepen.io/) | [Medium](https://medium.com/)
+[Google search]([www.GOOGLE.com)! | github | [stackoverflow](https://stackoverflow.com) | [codepen](https://codepen.io/) | [medium](https://medium.com/)
 
 ## WIKI:
 
