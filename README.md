@@ -19,6 +19,6 @@
 * react
 
 
-## Social:
+## Community: 
 
 [medium](https://medium.com/) | [linkedin](https://ro.linkedin.com/) | twitter | discord | 
