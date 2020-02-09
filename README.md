@@ -1,8 +1,10 @@
 ### the Holy Grail:
 
-[Google search]([www.GOOGLE.com)! | github | [stackoverflow](https://stackoverflow.com) | [codepen](https://codepen.io/) | 
+[Google search]([www.GOOGLE.com)! | github | [stackoverflow](https://stackoverflow.com) | [codepen](https://codepen.io/) | [wolframalpha](https://www.wolframalpha.com/)
 
-[medium](https://medium.com/) | [linkedin](https://ro.linkedin.com/) | twitter | discord | [wolframalpha](https://www.wolframalpha.com/)
+#### Social
+
+[medium](https://medium.com/) | [linkedin](https://ro.linkedin.com/) | twitter | discord | 
 
 ## WIKI:
 
