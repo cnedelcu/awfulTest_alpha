@@ -2,9 +2,7 @@
 
 [Google search]([www.GOOGLE.com)! | github | [stackoverflow](https://stackoverflow.com) | [codepen](https://codepen.io/) | [wolframalpha](https://www.wolframalpha.com/)
 
-#### Social:
 
-[medium](https://medium.com/) | [linkedin](https://ro.linkedin.com/) | twitter | discord | 
 
 ## WIKI:
 
@@ -19,4 +17,8 @@
 * javascript ES6
 * functional javascript
 * react
-* 
+
+
+#### Social:
+
+[medium](https://medium.com/) | [linkedin](https://ro.linkedin.com/) | twitter | discord | 
